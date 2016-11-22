@@ -1,7 +1,7 @@
-user=wd
-userfirstname='Werner'
-userlastname='Depoorter'
-useremail='werner@depoorter.name'
+user=bdejaeg
+userfirstname='Brecht'
+userlastname='De Jaeger'
+useremail='brechtdejaeger@hotmail.com'
 userpassword='abc123'
-org=stoicheia
-orgname='Stoicheia bvba'
+org=test
+orgname='test bvba'
